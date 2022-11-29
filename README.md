@@ -10,14 +10,11 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  
   <img align="center" alt="photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
-
-  
   <img align="center" alt="wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 
 
-  <img align="right" alt="profile-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/oMp6pwS.jpg?width=676&height=676">
+  <img align="right" alt="profile-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/DYizGp6.jpg?width=676&height=676">
 </div>
   
   ##
